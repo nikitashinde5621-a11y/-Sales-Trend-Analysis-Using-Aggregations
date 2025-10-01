@@ -1,0 +1,11 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,1,1,"Allen, Mr. William Henry",male,35,0,0,24160,47.1,C85,S
+2,0,3,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q
+3,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,53.1,C123,S
+4,0,3,"Kelly, Mr. James",male,34.5,0,0,231945,7.8958,,S
+5,1,2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,28,1,0,PC 17599,71.2833,E46,C
+6,0,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,,S
+7,0,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,24160,11.1333,,S
+8,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,,C
+9,0,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S
+10,1,2,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,,C
